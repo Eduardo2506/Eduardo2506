@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙖 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙖𝙩 𝙏𝙤𝙪𝙡𝙤𝙪𝙨𝙚 𝙇𝙖𝙪𝙩𝙧𝙚𝙘, 𝙄 𝙖𝙢 𝙞𝙣 𝙢𝙮 𝙩𝙝𝙞𝙧𝙙 𝙘𝙮𝙘𝙡𝙚 𝙤𝙛 𝙫𝙞𝙙𝙚𝙤 𝙜𝙖𝙢𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩.**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
