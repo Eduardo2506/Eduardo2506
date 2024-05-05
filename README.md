@@ -28,15 +28,9 @@
 <!--Intro start-->
 - 🔭 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙖 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙖𝙩 𝙏𝙤𝙪𝙡𝙤𝙪𝙨𝙚 𝙇𝙖𝙪𝙩𝙧𝙚𝙘, 𝙄 𝙖𝙢 𝙞𝙣 𝙢𝙮 𝙩𝙝𝙞𝙧𝙙 𝙘𝙮𝙘𝙡𝙚 𝙤𝙛 𝙫𝙞𝙙𝙚𝙤 𝙜𝙖𝙢𝙚 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
 - ☁️ 𝐈 𝐡𝐚𝐯𝐞 𝐠𝐫𝐞𝐚𝐭 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠. 𝐒𝐨, 𝐈'𝐦 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐦𝐚𝐧𝐲 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 𝐅𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 𝐨𝐮𝐭 **𝐞𝐝𝐮𝐚𝐫𝐝𝐨𝐜𝐚𝐬𝐭𝐫𝐨𝟐𝟓𝟎𝟔𝟏𝟐@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
