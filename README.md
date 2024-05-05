@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">𝙃𝙞 👋, 𝙄'𝙢 𝙀𝙙𝙪𝙖𝙧𝙙𝙤</h1></summary>
   </ul>
 </div>
 
@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">𝙄𝙛 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙞𝙢𝙖𝙜𝙞𝙣𝙚 𝙞𝙩, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙥𝙧𝙤𝙜𝙧𝙖𝙢 𝙞𝙩</h2></summary>
   </ul>
 </div>
 
